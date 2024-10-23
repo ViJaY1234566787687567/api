@@ -38,3 +38,14 @@ If the requested store is not found, the API will return:
 
 A 404 status code
 A JSON response: {"message": "Store not found"}
+
+
+
+
+
+
+
+
+![Screenshot 2024-10-23 205032](https://github.com/user-attachments/assets/9daa6da8-2455-408b-aa72-4758999fc568)
+
+This a list of stores and item on store .
